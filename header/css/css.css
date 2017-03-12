@@ -1,0 +1,158 @@
+.content_box {
+  width: 100%;
+  background: #f4f6f8;
+}
+.content_box .course {
+  margin-top: 18px;
+  background: #fff;
+}
+.content_box .course > h2 {
+  height: 59px;
+  border-bottom: 1px solid #eee;
+  padding-left: 20px;
+  line-height: 59px;
+  margin: 0;
+  font-size: 18px;
+  color: #444;
+  font-weight: bold;
+}
+.content_box .course > h2 > a {
+  display: inline-block;
+  width: 94px;
+  border-left: 2px solid #f9f9f9;
+  text-decoration: none;
+  color: #999;
+}
+.content_box .add_course {
+  height: 69px;
+  border-bottom: 1px solid #eee;
+  font-size: 12px;
+  color: #666;
+  background: #fff;
+  line-height: 70px;
+}
+.content_box .banner_box {
+  background: #fff;
+}
+.content_box .banner_box > .row {
+  margin: 0;
+}
+.content_box .banner_box .box1,
+.content_box .banner_box .box2,
+.content_box .banner_box .box3,
+.content_box .banner_box .box4 {
+  height: 297px;
+  border-bottom: 1px solid #eee;
+  border-right: 1px solid #eee;
+  padding: 10px;
+  position: relative;
+}
+.content_box .banner_box .box1 > a,
+.content_box .banner_box .box2 > a,
+.content_box .banner_box .box3 > a,
+.content_box .banner_box .box4 > a {
+  text-decoration: none;
+  color: '';
+  displaly: block;
+}
+.content_box .banner_box .box1 .title {
+  padding: 12px;
+  height: 40px;
+}
+.content_box .banner_box .box1 .title .title_info {
+  width: 54px;
+  height: 20px;
+  color: #fbf3e9;
+  font-size: 12px;
+  font-family: 'Microsoft Yahei';
+  background: #c6d0d8;
+  border-radius: 4px;
+  line-height: 20px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+.content_box .banner_box .box1 .title > a {
+  text-decoration: none;
+  color: #444;
+  font-size: 14px;
+  font-family: 'Microsoft Yahei';
+  font-weight: bold;
+  height: 40px;
+  width: 75%;
+  overflow: hidden;
+}
+.content_box .banner_box .box1 .comment {
+  padding-left: 12px;
+  margin-bottom: 20px;
+  height: 20px;
+}
+.content_box .banner_box .box1 .comment > span {
+  color: #c6d0d8;
+  font-size: 12px;
+}
+.content_box .banner_box .box1 .logo_bottom {
+  height: 24px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.content_box .banner_box .box1 .logo_bottom .zhs_last > a {
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+  font-family: 'Microsoft Yahei';
+  padding-left: 22px;
+  background: url(../img/logo.png) no-repeat 0 6px;
+  font-weight: 500;
+}
+.content_box .banner_box .box1 .logo_bottom .free_right {
+  font-size: 14px;
+  font-family: 'Microsoft Yahei';
+  color: #15c288;
+  font-weight: bold;
+}
+.content_box .add_msg {
+  margin-top: 18px;
+  background: #fff;
+}
+.content_box .add_msg .add_msg_header {
+  height: 59px;
+  border-bottom: 1px solid #eee;
+  padding-left: 20px;
+  line-height: 59px;
+  font-size: 18px;
+  color: #444;
+  font-weight: bold;
+}
+.content_box .add_msg .send_msg_content {
+  padding: 20px 40px;
+  width: 100%;
+}
+.content_box .add_msg .send_msg_content .input_text {
+  height: 118px;
+  border: 1px solid #e1e1e1;
+  padding: 4px 8px;
+  width: 100%;
+  outline: none;
+  resize: none;
+}
+.content_box .add_msg .send_msg_content .faces {
+  margin-top: 20px;
+}
+.content_box .add_msg .send_msg_content .faces > a {
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 30px;
+  background: url(../img/faces.png) no-repeat 8px -1px;
+}
+.content_box .add_msg .send_msg_content .faces > button {
+  border: none;
+  background: #67d7b2;
+  color: #fff;
+  font-size: 12px;
+  font-family: 'Microsoft Yahei';
+  font-weight: bold;
+  height: 34px;
+  width: 54px;
+}
