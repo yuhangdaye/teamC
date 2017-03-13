@@ -1,0 +1,123 @@
+.nav_right {
+  width: 270px;
+  height: 962px;
+  float: right;
+  background: #f4f6f8;
+  margin-top: 542px;
+  margin-right: 140px;
+}
+.nav_right .nav_top {
+  width: 272px;
+  height: 97px;
+  background: url(../img/top.png) 0 0 no-repeat;
+  margin-bottom: 12px;
+  font-size: 12px;
+}
+.nav_right .nav_top li {
+  width: 24px;
+  height: 46px;
+  float: left;
+  list-style: none;
+  color: #666;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 12px;
+  margin-left: 12px;
+  position: relative;
+}
+.nav_right .nav_top li a {
+  text-decoration: none;
+  color: #666;
+  font-size: 12px;
+}
+.nav_right .nav_top .line {
+  height: 33px;
+  width: 1px;
+  background: #eee;
+  margin: 0 14px;
+  margin-top: 30px;
+}
+.nav_right .nav_body {
+  width: 270px;
+  height: 358px;
+  background: #fff;
+  margin-top: 12px;
+}
+.nav_right .nav_body li {
+  list-style: none;
+  font-size: 12px;
+  width: 230px;
+  height: 34px;
+  border-bottom: 1px dashed #eee;
+  line-height: 34px;
+  margin-left: 18px;
+}
+.nav_right .nav_body li .first {
+  color: #999;
+}
+.nav_right .nav_body .last_foot {
+  height: 234px;
+  border-bottom: none;
+}
+.nav_right .nav_foot {
+  width: 270px;
+  height: 254px;
+  margin-top: 20px;
+  background: #fff;
+}
+.nav_right .nav_foot h1 {
+  height: 60px;
+  line-height: 60px;
+  padding-left: 20px;
+  font-size: 18px;
+  border-bottom: 1px solid  #eee;
+}
+.nav_right .nav_foot .per {
+  font-size: 14px;
+  margin-top: 20px;
+  display: block;
+  float: left;
+  margin-left: 20px;
+}
+.nav_right .nav_foot .per_right {
+  float: right;
+  margin-top: 20px;
+  font-size: 14px;
+  margin-right: 20px;
+}
+.nav_right .nav_foot .person-student ul {
+  height: 120px;
+  margin-top: 56px;
+}
+.nav_right .nav_foot .person-student ul .img {
+  margin-left: 26px;
+  padding-top: 26px;
+  display: block;
+}
+.nav_right .nav_foot .person-student ul .name {
+  text-align: center;
+  width: 62px;
+  margin-left: 20px;
+  display: block;
+  overflow: hidden;
+}
+.nav_right .nav_info {
+  width: 270px;
+  height: 200px;
+  background: #fff;
+  margin-top: 20px;
+}
+.nav_right .nav_info h1 {
+  height: 60px;
+  line-height: 60px;
+  font-size: 18px;
+  border-bottom: 1px solid #eee;
+  padding-left: 20px;
+}
+.nav_right .nav_info li {
+  float: left;
+  margin-left: 24px;
+}
+.nav_right .nav_info li .stady_in {
+  display: block;
+}

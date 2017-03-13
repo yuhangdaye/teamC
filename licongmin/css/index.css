@@ -1,0 +1,33 @@
+.body_right {
+  margin: 0;
+  padding: 0;
+  width: 270px;
+  height: 962px;
+  background: #f4f6f8;
+}
+.body_right .b_top {
+  height: 98px;
+  background: #ccc;
+}
+.body_right .b_top ul {
+  height: 98px;
+}
+.body_right .b_top ul li {
+  width: 66px;
+  height: 36px;
+  float: left;
+  border: 1px solid red;
+  font-size: 12px;
+  list-style: none;
+}
+.body_right .b_top ul li a {
+  color: #666666;
+  font-size: 12px;
+  display: block;
+  text-decoration: none;
+}
+.body_right .b_top ul li p {
+  font-size: 12px;
+  display: inline;
+  color: #616161;
+}
